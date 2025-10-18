@@ -1,0 +1,9 @@
+div>p{
+    color: burlywood;
+    text-align: center;
+}
+div p{
+    color: aqua;
+    font-size: small;
+}
+div ~ 
